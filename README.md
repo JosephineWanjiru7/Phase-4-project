@@ -27,7 +27,7 @@ We performed the following models:
 * **user-based collaborative filtering**
 * **item-based collaborative filtering**
 
-   **2. Model-based Collaborative Filtering**
+ **2. Model-based Collaborative Filtering**
 * **surprise package(singular value decomposition)**
 * **K nearest neighbors**
 ## Evaluation
